@@ -27,7 +27,7 @@ HARMONIA achieves competitive performance across multiple benchmarks. Here are t
 | LRRNet | TPAMI'23 | 0.457 | 3.639 | 0.619 | 3.195 |
 | Text-IF | CVPR'24 | 0.691 | 3.891 | 0.573 | 3.422 |
 | ControlFusion | NeurIPS'25 | 0.703 | 3.789 | 0.691 | 3.874 |
-| **HARMONIA (Ours)** | **ICASSP'27** | **0.726** | **4.221** | **0.678** | **3.976** |
+| **HARMONIA (Ours)** | --- | **0.726** | **4.221** | **0.678** | **3.976** |
 
 *Note: HARMONIA is trained only on MSRS but generalizes well to unseen datasets like LLVIP and RoadScene.*
 
